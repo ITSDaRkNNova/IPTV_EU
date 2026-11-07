@@ -56,7 +56,7 @@ https://*user*.github.io/*repository*/playlists/ukraine-ott.m3u8
  •  К2
  •  Сонце
  •  Сонце+
- •  ▲ІМ
+ •  ДІМ
  •  ПлюсПлюс
  •  Піксель
  
