@@ -1,59 +1,126 @@
 #EXTM3U x-tvg-url="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="1Plus1Marafon.ua" tvg-name="1+1 Марафон" tvg-logo="https://camo.githubusercontent.com/28cb9d78feeb498d0f18fa9509c822b8108dbd5534c756a1e3782af78d4aa21c/68747470733a2f2f692e696d6775722e636f6d2f736d514b6132472e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",1+1 Марафон
+#EXTINF:-1 tvg-id="1plus1" tvg-name="1+1 Марафон" tvg-logo="https://i.postimg.cc/QxVzxtyt/1Plus1Marafon.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",1+1 Марафон
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1Ukraina.ua" tvg-name="1+1 Україна" tvg-logo="https://camo.githubusercontent.com/746721db4512486c30b714973661ee15517bb233c3ab0d0806058a81d9b21c6c/68747470733a2f2f692e696d6775722e636f6d2f466c47376e70712e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",1+1 Україна
+#EXTINF:-1 tvg-id="1plus1-ukraina" tvg-name="1+1 Україна" tvg-logo="https://i.postimg.cc/zGzFXPv5/1Plus1-Ukraina.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",1+1 Україна
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 http://stream.mcquack.net/219/index.m3u8
-#EXTINF:-1 tvg-id="1Plus1International.ua@SD" tvg-name="1+1 International" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/37/1_1_International.png/revision/latest?cb=20220504201115&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",1+1 International
+#EXTINF:-1 tvg-id="1plus1-int" tvg-name="1+1 International" tvg-logo="https://i.postimg.cc/VkPndZkD/1Plus1-International.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",1+1 International
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="2Plus2.ua" tvg-name="2+2" tvg-logo="https://camo.githubusercontent.com/baac4b01f143fe630e1642ea09f51194d0474957d723b865e2a89c932491b529/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61342f32253242325f6c6f676f5f323031372e7376672f35303070782d32253242325f6c6f676f5f323031372e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",2+2
+#EXTINF:-1 tvg-id="2plus2" tvg-name="2+2" tvg-logo="https://i.postimg.cc/zv31rkhn/2plus2.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",2+2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/173/index.m3u8
-#EXTINF:-1 tvg-id="TET.ua" tvg-name="ТЕТ" tvg-logo="https://camo.githubusercontent.com/70ecfcf668964a2dea20c0ad8b5eca6c6cfc1abfc3298bc3468ce0d1ab440dab/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33312f5445545f6c6f676f2e7376672f35303070782d5445545f6c6f676f2e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",ТЕТ
+#EXTINF:-1 tvg-id="tet-ua" tvg-name="ТЕТ" tvg-logo="https://i.postimg.cc/gjRbj2gg/Tonis-Enter-Television.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ТЕТ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/338/index.m3u8
-#EXTINF:-1 tvg-id="plusplus" tvg-name="ПлюсПлюс" tvg-logo="https://camo.githubusercontent.com/5cf4973c51af722e26c8b246c657fef836983d57d283dcbe35641b9bec65acfb/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62642f504c5553504c555355412e7376672f35303070782d504c5553504c555355412e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Дитяче",ПлюсПлюс
+#EXTINF:-1 tvg-id="plusplus" tvg-name="ПлюсПлюс" tvg-logo="https://i.postimg.cc/5ypqwwKr/Plus-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Дитяче" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ПлюсПлюс
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/339/index.m3u8
-#EXTINF:-1 tvg-id="svit-plus-ua" tvg-name="СВІТ+" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/16f74667-313a-485e-ad52-a50fe51bf9a0.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",СВІТ+
+#EXTINF:-1 tvg-id="svit-plus-ua" tvg-name="СВІТ+" tvg-logo="https://i.postimg.cc/yY4kPgCc/Svit-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",СВІТ+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/358/index.m3u8
-#EXTINF:-1 tvg-id="Bigudi" tvg-name="Бігуді" tvg-logo="https://camo.githubusercontent.com/3f15f266bfb716a081a9ead44ed14d3e6ae57cbd162f43789790684482d75821/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38342f4269677564695f253238556b7261696e652532395f253238312d73745f6c6f676f2532392e7376672f35303070782d4269677564695f253238556b7261696e652532395f253238312d73745f6c6f676f2532392e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Бігуді
+#EXTINF:-1 tvg-id="bigudi" tvg-name="Бігуді" tvg-logo="https://i.postimg.cc/hG7kpjBT/Bigudi.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Бігуді
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/340/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="unian-tv" tvg-name="УНІАН. Серіал" tvg-logo="https://i.postimg.cc/Wp9z7sRP/Untitled41-20261106154216.png" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове",УНІАН. Серіал
+#EXTINF:-1 tvg-id="unian-tv" tvg-name="УНІАН. Серіал" tvg-logo="https://i.postimg.cc/DZ41S917/UNIAN-Serial.png" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",УНІАН. Серіал
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/341/index.m3u8
-#EXTINF:-1 tvg-id="armia-tv-ua" tvg-name="Армія ТБ" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/8f/%D0%90%D1%80%D0%BC%D0%B8%D1%8F_TV_%28%D1%81_2023%29.png/revision/latest?cb=20240117195453&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Військове",Армія ТБ
+#EXTINF:-1 tvg-id="armia-tv-ua" tvg-name="Армія ТБ" tvg-logo="https://i.postimg.cc/P5ZGMJhz/Armiya-TV.png" tvg-country="Україна" tvg-language="Українська" group-title="Військове",Армія ТБ
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-id="ictv-ua" tvg-name="ICTV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7e/ICTV_%282017-%D0%BD.%D0%B2.%29.png/revision/latest?cb=20171022122534&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",ICTV
+#EXTINF:-1 tvg-id="ictv-ua" tvg-name="ICTV" tvg-logo="https://i.postimg.cc/qv0fj07w/International-Commercial-Tele-Vision.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",ICTV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/158/index.m3u8
-#EXTINF:-1 tvg-id="ICTV2.ua" tvg-name="ICTV2" tvg-logo="https://camo.githubusercontent.com/5ef50cbf646b31d3603ea25739026a73c417ff3742b0d7302e68cfd54571a8e2/68747470733a2f2f692e696d6775722e636f6d2f4a347a6c5247762e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",ICTV2
+#EXTINF:-1 tvg-id="ictv-ukraine" tvg-name="ICTV2" tvg-logo="https://i.postimg.cc/d0y83M8S/International-Commercial-Tele-Vision-2.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",ICTV2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/368/index.m3u8
-#EXTINF:-1 tvg-id="NovyKanal.ua" tvg-name="Новий Канал" tvg-logo="https://camo.githubusercontent.com/3c999fc3bd9ba33be304957ce9df613d54bcae1972b35b9cbd19c82ea5eade3f/68747470733a2f2f692e696d6775722e636f6d2f344a687170504d2e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Новий Канал
+#EXTINF:-1 tvg-id="novy-kanal-ua" tvg-name="Новий Канал" tvg-logo="https://i.postimg.cc/0Q523D2h/Novyi-Kanal.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Новий Канал
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/157/index.m3u8
-#EXTINF:-1 tvg-id="stb-ua" tvg-name="СТБ" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/80/STBualogo.png/revision/latest?cb=20251230072439&path-prefix=uk" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",СТБ
+#EXTINF:-1 tvg-id="stb-ua" tvg-name="СТБ" tvg-logo="https://i.postimg.cc/ydw6N5yj/Svit-Tele-Bachenya.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",СТБ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 tvg-id="tvij-serial" tvg-name="Твій серіал" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/ba/%D0%A2%D0%B2%D1%96%D0%B9_%D1%81%D0%B5%D1%80%D1%96%D0%B0%D0%BB_%28%D0%B7_2023%29.png/revision/latest?cb=20251230062010&path-prefix=uk" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове",Твій серіал
+#EXTINF:-1 tvg-id="tvij-serial" tvg-name="Твій серіал" tvg-logo="https://i.postimg.cc/gcVbRnzK/Tviy-Serial.png" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Твій серіал
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 tvg-id="otse" tvg-name="ОЦЕ" tvg-logo="https://camo.githubusercontent.com/674f2f132c31aad17c3044ad1445b9d875e201f6ea3281d3fcaa66031ceded1f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38662f4f43455f6c6f676f5f253238323031372532392e7376672f35303070782d4f43455f6c6f676f5f253238323031372532392e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",ОЦЕ
+#EXTINF:-1 tvg-id="otse" tvg-name="ОЦЕ" tvg-logo="https://i.postimg.cc/P584p8HS/OCE.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",ОЦЕ
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/329/index.m3u8
-#EXTINF:-1 tvg-id="superplus" tvg-name="super+" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/7/77/Super%2BTV.png/revision/latest?cb=20260207042812&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",super+
+#EXTINF:-1 tvg-id="superplus" tvg-name="super+" tvg-logo="https://i.postimg.cc/sXnS0Vyp/Super-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",super+
 https://iptv.prosto.tv/id921/index.m3u8?secret=90464boy&21yo=0
-#EXTINF:-1 tvg-id="m1-ua" tvg-name="М1" tvg-logo="https://epg.iptvx.one/picons/m1-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Музичне",М1
+#EXTINF:-1 tvg-id="m1-ua" tvg-name="М1" tvg-logo="https://i.postimg.cc/jqHLMHQL/M1.png" tvg-country="Україна" tvg-language="Українська" group-title="Музичне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",М1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="https://epg.iptvx.one/picons/m2-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Музичне",М2
+#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="https://i.postimg.cc/j5Kr27Wm/M2.png" tvg-country="Україна" tvg-language="Українська" group-title="Музичне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",М2
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/330/index.m3u8
-#EXTINF:-1 tvg-id="my-ukraina" tvg-name="Ми — Україна" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/49/%D0%9C%D0%B8_%E2%80%94_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B0_%28%D0%B7_2022%2C_%D0%B5%D1%84%D1%96%D1%80%29.png/revision/latest?cb=20260802190016&path-prefix=uk" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",Ми — Україна
+#EXTINF:-1 tvg-id="my-ukraina" tvg-name="Ми — Україна" tvg-logo="https://i.postimg.cc/44DjxcrX/My-Ukraina.webp" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Ми — Україна
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/442/index.m3u8
-#EXTINF:-1 tvg-id="my-ukraina-plus" tvg-name="Ми — Україна+" tvg-logo="https://epg.iptvx.one/picons/my-ukraina-plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Ми — Україна+
+#EXTINF:-1 tvg-id="my-ukraina-plus" tvg-name="Ми — Україна+" tvg-logo="https://i.postimg.cc/HkqrSBKX/My-Ukraina-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Ми — Україна+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер" tvg-logo="https://camo.githubusercontent.com/1ba7bbaff1b3b6ea1a1ae8e4e3ea74458b85fb547795e0b7c7de0418d273897c/68747470733a2f2f692e696d6775722e636f6d2f523036676275542e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Інтер
+#EXTINF:-1 tvg-id="inter-ua" tvg-name="Інтер" tvg-logo="https://i.postimg.cc/rpqkF4RN/Inter.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Інтер
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 tvg-id="inter-plus-ua" tvg-name="Інтер+" tvg-logo="https://epg.iptvx.one/picons/inter-plus-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Інтер+
+#EXTINF:-1 tvg-id="inter-plus-ua" tvg-name="Інтер+" tvg-logo="https://i.postimg.cc/Bn4Stkdj/Inter-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="UA",Інтер+
+#EXTVLCOPT:http-user-agent=UA
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="pixel" tvg-name="Піксель" tvg-logo="https://camo.githubusercontent.com/72a9a6b11bbfb6aa06a4dcfd1270b705d00ac1a9941421ff2db6595a0b59cc67/68747470733a2f2f692e696d6775722e636f6d2f4543726f3841682e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Дитяче",Піксель
+#EXTINF:-1 tvg-id="pixel" tvg-name="Піксель" tvg-logo="https://i.postimg.cc/cCBzz9Tm/Pixel.webp" tvg-country="Україна" tvg-language="Українська" group-title="Дитяче",Піксель
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="mega-ua" tvg-name="Мега" tvg-logo="https://camo.githubusercontent.com/413af01e948e787b960dd242c0681541c2a27980151fc42be9e9410fb328e4a1/68747470733a2f2f692e696d6775722e636f6d2f4631763639746e2e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",Мега
+#EXTINF:-1 tvg-id="mega-ua" tvg-name="Мега" tvg-logo="https://i.postimg.cc/VvvMy5Fr/Mega.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",Мега
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="k1-ua" tvg-name="К1" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/46/%D0%9A1_%282014%2C_bright%29.svg/revision/latest/scale-to-width-down/150?cb=20181102180720&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",К1
+#EXTINF:-1 tvg-id="k1-ua" tvg-name="К1" tvg-logo="https://i.postimg.cc/wvGMm2h7/K1.webp" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",К1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 http://stream.mcquack.net/270/index.m3u8
-#EXTINF:-1 tvg-id="k2-ua" tvg-name="К2" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/7bd4a326-90ee-4863-9b46-ccc5368f39d8.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",К2
-https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ntn-ua" tvg-name="НТН" tvg-logo="https://camo.githubusercontent.com/9e3ece57b06499e21239dbe824a9c294cd7a8eda18ea9415307a551e2bfc3f5a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64312f4e544e55415f6c6f676f5f253238323031332532392e7376672f35303070782d4e544e55415f6c6f676f5f253238323031332532392e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",НТН
+#EXTINF:-1 tvg-id="k2-ua" tvg-name="К2" tvg-logo="https://i.postimg.cc/kgH7wG21/K2.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",К2
+http://stream.mcquack.net/324/index.m3u8
+#EXTINF:-1 tvg-id="ntn-ua" tvg-name="НТН" tvg-logo="https://i.postimg.cc/1tnB6WLG/Natsionalni-Televiziyni-Novyny.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",НТН
+http://stream.mcquack.net/326/index.m3u8
+#EXTINF:-1 tvg-id="enter-film" tvg-name="Enter-Фільм" tvg-logo="https://i.postimg.cc/SxGmFd1j/Enter-Film.webp" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Enter-фільм
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-id="sonce-ua" tvg-name="Сонце" tvg-logo="https://i.postimg.cc/MKPYPJqD/Sontse.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="curl/8.16.0",Сонце
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 tvg-id="sonce-plus-ua" tvg-name="Сонце+" tvg-logo="https://i.postimg.cc/5yqf4mN9/Sontse-Plus.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" http-referrer="http://live.tvstitch.com/" referrer="http://live.tvstitch.com/",Сонце+
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+https://iptv.prosto.tv/id1103/index.m3u8?secret=90464boy&21yo=1
+#EXTINF:-1 tvg-id="zoom-ua" tvg-name="Zoom" tvg-logo="https://i.postimg.cc/tCCKnbBn/Zoom.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",Zoom
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+http://stream.mcquack.net/327/index.m3u8
+#EXTINF:-1 tvg-id="eko-tv" tvg-name="ECO TV" tvg-logo="https://i.postimg.cc/VLvYQXQR/ECO-TV.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне" http-user-agent="curl/8.16.0",ECO TV
+#EXTVLCOPT:http-user-agent=curl/8.16.0
+https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
+#EXTINF:-1 tvg-id="espreso-tv" tvg-name="Еспресо TV" tvg-logo="https://i.postimg.cc/FRCBjdWH/Espreso-TV.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",Еспресо TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="24news-ua" tvg-name="24 Канал" tvg-logo="https://i.postimg.cc/ZqMQNvD5/Kanal-24.webp" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",24 Канал
+https://streamvideol1.luxnet.ua/news24/livenews.m3u8
+#EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал" tvg-logo="https://i.postimg.cc/y8NnTYRp/Kanal-5.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",5 канал
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+http://stream.mcquack.net/291/index.m3u8
+#EXTINF:-1 tvg-id="epoque" tvg-name="Світло" tvg-logo="https://i.postimg.cc/hvpTJTpY/Svitlo.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Світло
+https://iptv.prosto.tv/id279/index.m3u8?secret=90464boy&21yo=1
+#EXTINF:-1 tvg-id="rada-ua" tvg-name="РАДА" tvg-logo="https://i.postimg.cc/KzQRQFBK/Rada.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",РАДА
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="konkurent-ua" tvg-name="Конкурент.Україна" tvg-logo="https://i.postimg.cc/v8kQycYw/Konkurent-Ukraina.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" http-referrer="http://live.tvstitch.com/" referrer="http://live.tvstitch.com/",Конкурент.Україна
+#EXTVLCOPT:http-referrer=http://live.tvstitch.com/
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"
+http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==
+#EXTINF:-1 tvg-id="priamyj" tvg-name="Прямий" tvg-logo="https://i.postimg.cc/1zd9ztGB/Pryamyy.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне" http-user-agent="UA",Прямий
+#EXTVLCOPT:http-user-agent=UA
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 tvg-id="dom" tvg-name="ДІМ" tvg-logo="https://i.postimg.cc/MTZyz9Yy/Dim.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",ДІМ
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-tv" tvg-name="FREEДОМ" tvg-logo="https://i.postimg.cc/Hs31xnH8/FREEDOM-UATV.png" tvg-country="Україна" tvg-language="Російська" group-title="Інформаційне",FREEДОМ
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-pershy" tvg-name="Перший" tvg-logo="https://i.postimg.cc/W3V5gmw6/Pershyi.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-id="kultura-ua" tvg-name="Суспільне Культура" tvg-logo="https://i.postimg.cc/C1t4hWL6/Suspilne-Kultura.png" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",Суспільне Культура
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-id="suspilne-sport-ua" tvg-name="Суспільне Спорт" tvg-logo="https://i.postimg.cc/KzL1TV5x/Suspilne-Sport.png" tvg-country="Україна" tvg-language="Українська" group-title="Спортивне" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Суспільне Спорт
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+http://stream.mcquack.net/444/index.m3u8раїнська" group-title="Загальне",НТН
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="enter-film" tvg-name="Enter-фільм" tvg-logo="https://camo.githubusercontent.com/2f454b5b637ebbb23e386269958c87bb721004afbff478aa7d4838bff40936f5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38652f456e7465722d46696c6d55415f253238323031332532392e706e672f39363070782d456e7465722d46696c6d55415f253238323031332532392e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове",Enter-фільм
 http://stream.mcquack.net/322/index.m3u8
