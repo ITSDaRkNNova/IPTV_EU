@@ -74,6 +74,42 @@ http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="rada-ua" tvg-name="РАДА" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/85c543c4-8c9a-4a1b-a47c-ebc3b24070e7.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",РАДА
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="epoque" tvg-name="Світло" tvg-logo="https://i.postimg.cc/Fs2dh2Lz/Svitlo-logo-(1).png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Світло
+https://745851.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9zdHJlYW0ueW91dHYuY29tLnVhL3YxLzMyOTYvZXlKMElqb3hOemswTWpFMU9UUTRMQ0pwSWpvaU9UVXVORFl1Tmk0eE9EUWlMQ0pqSWpvek1qazJMQ0prSWpvaU1qVTVOMlJrWm1JNFlXWTVZMlUxTUdGbFkyVTVOVEExTkdFME1Ea3pNaklpTENKMUlqb3pPRGM1TWpZMGZRPT0vM2YwYTM4ZDhhYTc4ZTZjYmIyY2UxMmZjNTkzZmFlZGIvTnpNPS90cmFja3MtdjFhMS9tb25vLm0zdTg=&w=1920&h=1080&master=3296&client=3879264&session=6f4a23ae5914d236af093a87575fd434&ott_provider_id=745851&bitrate=6870000&variant=0&isNoSlate=false&alt_audio=0&is_pseudo_live=false&is_rel_path=false&is_no_discontinuity=false&is_proxy_tracker=false&21yo=true&adInterval=0&adDuration=0&noSlateDelayLimit=0&dm_type=&audio_only=false&card=
+#EXTINF:-1 tvg-id="konkurent-ua" tvg-name="Конкурент.Україна" tvg-logo="https://epg.iptvx.one/picons/konkurent-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Конкурент.Україна
+http://cdn.ukrainske.tv/konkurent_ua/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoid2ViIiwidWlkIjoiMTA1OTcwNyIsInN1YnNjcmlwdGlvbiI6WyJGUkVFIiwiIl0sImlhdCI6MTc5NDA0NDg3NCwiZXhwIjoxNzk0MTMxMjc0LCJkZXZpY2UiOnsiaWQiOiI0NDY3YzA0Zi1hZTI0LTRhNzUtYjkzNS1iZGUwYjdjOTFiZWQifSwidG9rZW5fdXVpZCI6IjZhZWVmM2NhYzJhNTkifQ.aPcVW8AzxOQGGx3Jjswv3_iQD1YcZCMjYF0RVVzRmdM
+#EXTINF:-1 tvg-id="priamyj" tvg-name="Прямий" tvg-logo="https://i.postimg.cc/yYnHQZHB/Prm-2020.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",Прямий
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1 tvg-id="dom" tvg-name="ДІМ" tvg-logo="https://camo.githubusercontent.com/3a12f2f0abaa9917dea9ff4d8637f20feb8969ecbb00d9bc77b79fb250e106df/68747470733a2f2f692e696d6775722e636f6d2f33636a615849462e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",ДІМ
+https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-tv" tvg-name="FREEДОМ" tvg-logo="https://i.postimg.cc/NFwVnpN2/FREEDOM-(s-2022).png" tvg-country="Україна" tvg-language="Російська" group-title="Інформаційне",FREEДОМ
+https://dash4.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-pershy" tvg-name="Перший" tvg-logo="https://camo.githubusercontent.com/30ce91034085da878bb9a3d15119bd23d255673e8ad32d42b3e87513d73d7052/68747470733a2f2f692e696d6775722e636f6d2f6f7354514c45442e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 tvg-id="kultura-ua" tvg-name="Суспільне Культура" tvg-logo="https://camo.githubusercontent.com/00a2747cff17505ddae8bd1ca8f43964ed11fbc794dca74af7ca292369f60c25/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32372f53757370696c6e655f4b756c747572615f253238323032322532392e7376672f35303070782d53757370696c6e655f4b756c747572615f253238323032322532392e7376672e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",Суспільне Культура
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 tvg-id="suspilne-sport-ua" tvg-name="Суспільне Спорт" tvg-logo="https://camo.githubusercontent.com/2a58b43fd623d7024c949819673be61e7d6bed0d75671c6ae7477505332c91a0/68747470733a2f2f692e696d6775722e636f6d2f3136496855304d2e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Спортивне",Суспільне Спорт
+http://stream.mcquack.net/444/index.m3u8
+раїнська" group-title="Загальне",НТН
+https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="enter-film" tvg-name="Enter-фільм" tvg-logo="https://camo.githubusercontent.com/2f454b5b637ebbb23e386269958c87bb721004afbff478aa7d4838bff40936f5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38652f456e7465722d46696c6d55415f253238323031332532392e706e672f39363070782d456e7465722d46696c6d55415f253238323031332532392e706e67" tvg-country="Україна" tvg-language="Українська" group-title="Фільмове",Enter-фільм
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1 tvg-id="sonce-ua" tvg-name="Сонце" tvg-logo="https://epg.iptvx.one/picons/sonce-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Сонце
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1 tvg-id="sonce-plus-ua" tvg-name="Сонце+" tvg-logo="https://epg.iptvx.one/picons/sonce-plus-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Сонце+
+https://iptv.prosto.tv/id1103/index.m3u8?secret=90464boy&21yo=1
+#EXTINF:-1 tvg-id="zoom-ua" tvg-name="Zoom" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/49/IMG_20250101_161215_809.png/revision/latest?cb=20250101154457&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",Zoom
+http://stream.mcquack.net/327/index.m3u8
+#EXTINF:-1 tvg-id="eko-tv" tvg-name="ECO TV" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/d9/Eco_tv.png/revision/latest?cb=20240120125725&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Пізнавальне",ECO TV
+http://stream.mcquack.net/222/index.m3u8
+#EXTINF:-1 tvg-id="espreso-tv" tvg-name="Еспресо TV" tvg-logo="https://epg.iptvx.one/picons/espreso-tv.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",Еспресо TV
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 tvg-id="24news-ua" tvg-name="24 Канал" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7c/24_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0_%28%D1%87%D0%B5%D1%82%D0%B2%D0%B5%D1%80%D1%82%D1%8B%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B5%D0%B9%29.png/revision/latest?cb=20180404154039&path-prefix=ru" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",24 Канал
+https://streamvideol1.luxnet.ua/news24/livenews.m3u8
+#EXTINF:-1 tvg-id="5kanal-ua" tvg-name="5 канал" tvg-logo="https://i.postimg.cc/bvkV57t1/Channel-5-ua-o-sb-2019.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",5 канал
+http://stream.mcquack.net/291/index.m3u8
+#EXTINF:-1 tvg-id="rada-ua" tvg-name="РАДА" tvg-logo="https://vidmind-blizzard-images.s3.amazonaws.com/85c543c4-8c9a-4a1b-a47c-ebc3b24070e7.png" tvg-country="Україна" tvg-language="Українська" group-title="Інформаційне",РАДА
+https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="epoque" tvg-name="Світло" tvg-logo="https://i.postimg.cc/Fs2dh2Lz/Svitlo-logo-(1).png" tvg-country="Україна" tvg-language="Українська" group-title="Розважальне",Світло
 https://hls-vashnet-lviv.sweet.tv/stream/yax84495w7hzntni5edrwwkqwh5wsztcnkzbqypszq8kpqcqj67set7pygcdfgwuy8qna99prct4eh64ef3b6ftcud6yqwnmseec7znr2jxjn8rcishsaj9vs7cfyh8d7vf68seeie6x4khzhn5kwmh7cxkgws89peutvgn6vaeyzm8spw======
 #EXTINF:-1 tvg-id="konkurent-ua" tvg-name="Конкурент.Україна" tvg-logo="https://epg.iptvx.one/picons/konkurent-ua.png" tvg-country="Україна" tvg-language="Українська" group-title="Загальне",Конкурент.Україна
 http://cdn.ukrainske.tv/konkurent_ua/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoid2ViIiwidWlkIjoiMTA1OTcwNyIsInN1YnNjcmlwdGlvbiI6WyJGUkVFIiwiIl0sImlhdCI6MTc5NDA0NDg3NCwiZXhwIjoxNzk0MTMxMjc0LCJkZXZpY2UiOnsiaWQiOiI0NDY3YzA0Zi1hZTI0LTRhNzUtYjkzNS1iZGUwYjdjOTFiZWQifSwidG9rZW5fdXVpZCI6IjZhZWVmM2NhYzJhNTkifQ.aPcVW8AzxOQGGx3Jjswv3_iQD1YcZCMjYF0RVVzRmdM
